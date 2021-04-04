@@ -1,9 +1,5 @@
 <? php
 
-//membuat metode redirect dengan kode 301
+echo AKWOWOWOW
 
-header (“location: github.com”, true, 301);
-
-//membuat kode di bawah header tidak diproses oleh website sehingga lebih aman
-
-keluar();
+?>
